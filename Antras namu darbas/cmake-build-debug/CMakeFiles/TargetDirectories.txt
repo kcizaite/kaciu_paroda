@@ -1,0 +1,3 @@
+C:/Users/TSKMT/Desktop/SMK/I kursas 2023_2024/Pavasario semestras/Objektinis programavimas/Namu darbai/Antras namu darbas/cmake-build-debug/CMakeFiles/Antras_namu_darbas.dir
+C:/Users/TSKMT/Desktop/SMK/I kursas 2023_2024/Pavasario semestras/Objektinis programavimas/Namu darbai/Antras namu darbas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TSKMT/Desktop/SMK/I kursas 2023_2024/Pavasario semestras/Objektinis programavimas/Namu darbai/Antras namu darbas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

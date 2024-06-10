@@ -1,0 +1,12 @@
+Nala Ragdoll Female 4 4
+Oliver British Shorthair 0 0
+Bella Persian Female 3.8 3
+Leo Bengal Male 6.1 2
+Daisy Sphynx Female 4.3 4
+Max Russian Blue 0 0
+Chloe Scottish Fold 0 0
+Milo Abyssinian Male 5 4
+Lucy Burmese Female 3.9 3
+Charlie Norwegian Forest 0 0
+a a a 1 1
+d d d 5 5
